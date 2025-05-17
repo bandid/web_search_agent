@@ -1,6 +1,6 @@
-# Perplexity 2.0
+# Web Search Agent
 
-A modern, responsive AI chat interface with integrated web search functionality. Perplexity 2.0 provides a clean UI similar to Perplexity.ai, combining conversational AI with real-time search capabilities
+A modern, responsive AI chat interface with integrated web search functionality. It provides a clean UI similar to Perplexity.ai, combining conversational AI with real-time search capabilities
 
 ## ✨ Features
 
@@ -12,7 +12,7 @@ A modern, responsive AI chat interface with integrated web search functionality.
 
 ## 🏗️ Architecture
 
-Perplexity 2.0 follows a client-server architecture:
+Web Search Agent follows a client-server architecture:
 
 ### Client (Next.js + React)
 - Modern React application built with Next.js
@@ -38,8 +38,8 @@ Perplexity 2.0 follows a client-server architecture:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/harishneel1/perplexity_2.0.git
-   cd perplexity_2.0
+   git clone https://github.com/bandid/web_search_agent.git
+   cd web_search_agent
 
 2. **Set up the server**
    ```bash
